@@ -1,0 +1,6 @@
+2023-08-08T23:14:26.245Z  INFO 10620 --- [http-nio-28852-exec-1] cinema.utilities.Config                  : Request received at /seats
+2023-08-08T23:14:28.923Z  INFO 10620 --- [http-nio-28852-exec-3] cinema.utilities.Config                  : Request received at /purchase
+2023-08-08T23:14:29.969Z  INFO 10620 --- [http-nio-28852-exec-4] cinema.utilities.Config                  : Request received at /purchase
+2023-08-08T23:14:29.971Z  WARN 10620 --- [http-nio-28852-exec-4] cinema.utilities.Config                  : The ticket has been already purchased!
+2023-08-08T23:14:34.589Z  INFO 10620 --- [http-nio-28852-exec-6] cinema.utilities.Config                  : Request received at /return
+2023-08-08T23:14:34.591Z  WARN 10620 --- [http-nio-28852-exec-6] cinema.utilities.Config                  : Wrong token!
